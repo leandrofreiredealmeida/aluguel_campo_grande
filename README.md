@@ -1,0 +1,2 @@
+Este estimador de valor de aluguéis em Campo Grande/MS faz parte do projeto de extensão "Aluguéis em Campo Grande/MS: estimador de preços".
+O projeto foi desenvolvido por Leandro Freire de Almeida, aluno do Curso Superior de Tecnologia de Ciência dos Dados, para a disciplina Projeto Integrador de Ciência dos Dados III. 

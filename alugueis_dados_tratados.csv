@@ -1,0 +1,428 @@
+tipo,localizacao,endereco,area,quarto,banheiro,vagas_garagem,valor_aluguel,condo,iptu,eh_condo,regiao,bairro,valor_total
+Casa,Jardim Colorado,Rua Orlando Lopes,30,1,1,1.0,600,0.0,0.0,0,Anhanduizinho,Lageado,600.0
+Apartamento,Jardim Tijuca,Rua Mona Lisa,10,1,1,1.0,650,0.0,0.0,0,Lagoa,Tijuca,650.0
+Casa,Tiradentes,Avenida Rouxinol,38,1,1,1.0,650,0.0,47.0,0,Bandeira,Tiradentes,697.0
+Apartamento,Centro,Rua Sete de Setembro,10,1,1,1.0,680,0.0,65.0,0,Centro,Centro,745.0
+Apartamento,Jardim Monte Líbano,Rua José Luiz Pereira,46,2,1,1.0,700,0.0,52.0,0,Centro,Monte Líbano,752.0
+Apartamento,Amambaí,Rua Marechal Rondon,40,1,1,1.0,750,0.0,0.0,0,Centro,Amambaí,750.0
+Casa,Jardim Paulista,Rua Quintino Bocaiúva,10,1,1,1.0,750,0.0,0.0,0,Bandeira,Jardim Paulista,750.0
+Apartamento,Bairro Seminário,Avenida Prefeito Heráclito José Diniz de Figueiredo,10,2,1,1.0,800,0.0,0.0,0,Segredo,Seminário,800.0
+Apartamento,Monte Castelo,Rua Quatorze de Julho,50,2,1,1.0,800,345.0,95.0,1,Segredo,Monte Castelo,1240.0
+Apartamento,Jardim Centro Oeste,Rua Ana Jacinta de Oliveira,100,1,1,1.0,800,0.0,0.0,0,Anhanduizinho,Centro-Oeste,800.0
+Apartamento,Jardim do Zé Pereira,Avenida Engenheiro Amélio Carvalho Bais,30,1,1,1.0,800,0.0,0.0,0,Imbirussu,Panamá,800.0
+Apartamento,Jardim São Lourenço,Rua Tibiriçá,40,1,2,1.0,800,0.0,0.0,0,Bandeira,São Lourenço,800.0
+Apartamento,Vila Almeida,Rua Presidente Nilo Peçanha,10,1,1,1.0,800,0.0,0.0,0,Imbirussu,Santo Amaro,800.0
+Casa,Jardim São Conrado,Rua Coronel Athos P. da Silveira,50,2,1,1.0,800,0.0,200.0,0,Lagoa,São Conrado,1000.0
+Casa,Panamá,Rua Palestina,60,1,1,2.0,850,0.0,0.0,0,Imbirussu,Panamá,850.0
+Casa,Vila Bandeirante,Rua Brilhante,65,3,1,1.0,850,0.0,0.0,0,Lagoa,Bandeirantes,850.0
+Casa,Amambaí,Rua Pimenta Bueno,38,1,1,1.0,850,0.0,66.0,0,Centro,Amambaí,916.0
+Apartamento,Amambaí,Rua Marechal Rondon,40,1,1,1.0,850,0.0,0.0,0,Centro,Amambaí,850.0
+Casa,Amambaí,Rua Pimenta Bueno,87,1,1,1.0,850,0.0,167.0,0,Centro,Amambaí,1017.0
+Casa,Vila Almeida,Rua Presidente Artur Bernardes,45,1,1,2.0,900,0.0,0.0,0,Imbirussu,Santo Amaro,900.0
+Apartamento,Varandas do Campo,Rua Maria de Lourdes Vieira Matos,47,2,1,1.0,900,0.0,0.0,0,Anhanduizinho,Centro-Oeste,900.0
+Apartamento,Vila Ipiranga,Rua Francisco Alves Castelo,45,1,1,1.0,900,0.0,0.0,0,Anhanduizinho,Piratininga,900.0
+Apartamento,Jardim Centenário,Rua Rodrigues de Melo,50,2,1,1.0,900,0.0,0.0,0,Anhanduizinho,Centenário,900.0
+Apartamento,Vila Sílvia Regina,Rua Dona Maria II,40,1,1,1.0,900,0.0,0.0,0,Imbirussu,Santo Antônio,900.0
+Apartamento,Jardim Centenário,Rua José Carlos Silva de Almeida,44,2,1,1.0,950,0.0,0.0,0,Anhanduizinho,Centenário,950.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,52,2,1,1.0,950,404.0,0.0,1,Anhanduizinho,Pioneiros,1354.0
+Apartamento,Jardim Centenário,Rua José Carlos Silva de Almeida,44,2,1,1.0,950,0.0,0.0,0,Anhanduizinho,Centenário,950.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,59,2,1,1.0,950,412.0,0.0,1,Anhanduizinho,Pioneiros,1362.0
+Casa,Vila Palmira,Rua Tokio,70,2,2,2.0,950,0.0,50.0,0,Imbirussu,Santo Amaro,1000.0
+Apartamento,Vila Taveirópolis,Rua Albert Sabin,38,1,1,1.0,950,0.0,0.0,0,Lagoa,Taveirópolis,950.0
+Casa,Jardim Centenário,,50,2,1,1.0,990,0.0,0.0,0,Anhanduizinho,Centenário,990.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,1000,412.0,0.0,1,Anhanduizinho,Pioneiros,1412.0
+Apartamento,Tiradentes,Avenida Marquês de Pombal,50,2,1,1.0,1000,400.0,109.0,1,Bandeira,Tiradentes,1509.0
+Casa,Vivendas do Parque,Rua Esmeraldo Serra,64,2,1,1.0,1000,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,1000.0
+Apartamento,Jardim Morenão,Rua Cascais,46,2,1,1.0,1000,0.0,0.0,0,Anhanduizinho,Pioneiros,1000.0
+Apartamento,Centro,Rua Doutor Arthur Jorge,77,2,1,1.0,1000,600.0,195.0,1,Centro,Centro,1795.0
+Apartamento,Vila Progresso,Avenida Costa e Silva,108,3,1,1.0,1000,0.0,150.0,0,Bandeira,Jardim Paulista,1150.0
+Apartamento,Bairro Seminário,Rua Santo Aleixo,10,1,1,1.0,1000,0.0,64.0,0,Segredo,Seminário,1064.0
+Casa,Vila Nova Campo Grande,Rua 56,50,1,1,1.0,1000,0.0,30.0,0,Imbirussu,Nova Campo Grande,1030.0
+Casa,Jardim Jacy,Rua Nova Bandeirantes,71,1,1,1.0,1000,0.0,67.0,0,Anhanduizinho,Jacy,1067.0
+Apartamento,Jardim das Nações,Rua Luis Coutinho,60,2,1,1.0,1000,335.0,102.0,1,Anhanduizinho,Parati,1437.0
+Casa,Residencial Figueiras do Parque,Rua dos Marmeleiros,60,2,1,1.0,1000,0.0,60.0,0,Lagoa,São Conrado,1060.0
+Casa,Tiradentes,Rua Jacarepaguá,50,1,1,1.0,1000,0.0,54.0,0,Bandeira,Tiradentes,1054.0
+Apartamento,Monte Castelo,Rua Pio Rojas,70,2,1,1.0,1000,470.0,175.0,1,Segredo,Monte Castelo,1645.0
+Casa,Santa Mônica,Rua Calaveras,100,2,2,2.0,1050,0.0,0.0,0,Imbirussu,Popular,1050.0
+Apartamento,Jardim Itatiaia,Rua Domingos de Moraes,45,2,1,1.0,1100,0.0,0.0,0,Bandeira,Tiradentes,1100.0
+Casa,Vila Glória,Rua Vinte e Quatro de Outubro,70,2,1,1.0,1100,0.0,0.0,0,Centro,Glória,1100.0
+Apartamento,Vila Ipiranga,Rua Francisco Alves Castelo,10,2,1,1.0,1100,100.0,0.0,1,Anhanduizinho,Piratininga,1200.0
+Apartamento,União,Rua Antônio Rufino de Souza,50,2,1,1.0,1100,650.0,103.0,1,Lagoa,União,1853.0
+Apartamento,Jardim das Nações,Rua Luis Coutinho,64,2,1,1.0,1150,360.0,0.0,1,Anhanduizinho,Parati,1510.0
+Apartamento,Coophasul,Rua Sargento Hércules Santos de Campos,49,2,1,1.0,1150,198.0,91.0,1,Segredo,Nasser,1439.0
+Apartamento,Santa Fé,Avenida Mato Grosso,32,1,1,1.0,1150,0.0,0.0,0,Prosa,Santa Fé,1150.0
+Apartamento,Centro,Rua Antônio Maria Coelho,116,2,1,1.0,1180,160.0,147.0,1,Centro,Centro,1487.0
+Apartamento,Tiradentes,Rua José Nogueira Vieira,64,2,1,1.0,1190,275.0,130.0,1,Bandeira,Tiradentes,1595.0
+Apartamento,Residencial Oliveira,Rua Petrópolis,50,2,1,1.0,1200,390.0,104.0,1,Lagoa,União,1694.0
+Casa,Centro,Travessa Pepe Simioli,75,2,1,1.0,1200,0.0,0.0,0,Centro,Centro,1200.0
+Apartamento,Monte Castelo,,50,2,1,1.0,1200,400.0,124.0,1,Segredo,Monte Castelo,1724.0
+Apartamento,Jardim Jerusalém,Avenida João Garcia de Carvalho Filho,61,2,1,1.0,1200,225.0,165.0,1,Bandeira,Tiradentes,1590.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,48,2,1,1.0,1200,215.0,75.0,1,Bandeira,Rita Vieira,1490.0
+Casa,Amambaí,Rua Terenos,60,2,1,1.0,1200,50.0,85.0,1,Centro,Amambaí,1335.0
+Apartamento,Monte Castelo,Rua Bahia,30,1,1,1.0,1200,100.0,178.0,1,Segredo,Monte Castelo,1478.0
+Apartamento,Nova Lima,Rua Firmo Cristaldo,47,2,1,1.0,1200,0.0,0.0,0,Segredo,Nova Lima,1200.0
+Casa,Vila Taveirópolis,Rua da Pátria,68,2,1,1.0,1200,0.0,0.0,0,Lagoa,Taveirópolis,1200.0
+Apartamento,Vila Glória,Rua Jornalista Belizário Lima,45,1,1,1.0,1200,0.0,0.0,0,Centro,Glória,1200.0
+Casa,Jardim Centro Oeste,Avenida dos Cafezais,50,2,1,1.0,1200,0.0,0.0,0,Anhanduizinho,Centro-Oeste,1200.0
+Casa,Jardim Paulista,Rua Trindade,83,2,2,1.0,1200,0.0,0.0,0,Bandeira,Jardim Paulista,1200.0
+Casa,Jardim Itamaracá,,100,2,1,1.0,1250,0.0,0.0,0,Bandeira,Rita Vieira,1250.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,47,2,1,1.0,1250,317.0,77.0,1,Anhanduizinho,Pioneiros,1644.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,52,2,2,1.0,1250,405.0,120.0,1,Anhanduizinho,Pioneiros,1775.0
+Apartamento,Jardim Tijuca,Rua Serra Azul,51,2,1,1.0,1250,298.0,81.0,1,Lagoa,Tijuca,1629.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,52,1,1,1.0,1250,0.0,0.0,0,Anhanduizinho,Pioneiros,1250.0
+Apartamento,Monte Castelo,Rua Quatorze de Julho,60,2,1,1.0,1280,0.0,0.0,0,Segredo,Monte Castelo,1280.0
+Apartamento,Jardim Nossa Senhora do Perpétuo Socorro,Rua Filomena Segundo Nascimento,89,2,1,1.0,1300,0.0,0.0,0,Bandeira,Rita Vieira,1300.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,45,2,1,1.0,1300,0.0,0.0,0,Bandeira,Rita Vieira,1300.0
+Casa,Vila Nossa Senhora das Graças,Rua João Ramalho,45,2,1,1.0,1300,0.0,0.0,0,Segredo,Nasser,1300.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,50,2,1,1.0,1300,0.0,0.0,0,Bandeira,Rita Vieira,1300.0
+Casa,Jardim São Conrado,Rua Ponta da Praia,60,2,1,2.0,1300,0.0,0.0,0,Lagoa,São Conrado,1300.0
+Casa,Coophavila II,Rua Pastor Virgílio Faria,85,1,1,2.0,1300,0.0,0.0,0,Lagoa,Coophavila II,1300.0
+Casa,Tiradentes,Rua Romeu Alves Camargo,65,2,1,1.0,1300,0.0,0.0,0,Bandeira,Tiradentes,1300.0
+Casa,Vila Marcos Roberto,Rua do Himalaia,65,2,1,2.0,1300,200.0,98.0,1,Anhanduizinho,Joquey Club,1598.0
+Casa,Monte Castelo,Rua São Paulo,60,2,1,1.0,1300,0.0,155.0,0,Segredo,Monte Castelo,1455.0
+Casa,Jardim das Nações,Rua Seisuke Zaha,80,3,1,2.0,1300,0.0,82.0,0,Anhanduizinho,Parati,1382.0
+Apartamento,Vila Glória,Rua Jornalista Belizário Lima,84,2,2,1.0,1300,215.0,154.0,1,Centro,Glória,1669.0
+Casa,Vivendas do Parque,Rua Mombassa,45,2,1,1.0,1300,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,1300.0
+Casa,Jardim Imá,Rua São Luiz,60,2,1,1.0,1300,0.0,0.0,0,Imbirussu,Santo Antônio,1300.0
+Apartamento,Residencial Ana Maria do Couto,Rua Marina Luiza Spengler,80,3,1,1.0,1300,0.0,0.0,0,Imbirussu,Panamá,1300.0
+Casa,Conjunto Parati II,,100,2,1,3.0,1300,0.0,0.0,0,Anhanduizinho,Parati,1300.0
+Casa,Vila Moreninha II,Rua Anani,80,4,2,2.0,1300,0.0,92.0,0,Bandeira,Moreninha,1392.0
+Apartamento,União,Rua Antônio Rufino de Souza,60,2,1,1.0,1320,250.0,105.0,1,Lagoa,União,1675.0
+Casa,Monte Castelo,Rua Anita Garibaldi,50,2,1,1.0,1350,0.0,0.0,0,Segredo,Monte Castelo,1350.0
+Casa,Jardim Bonança,Rua Litorânea,64,2,1,1.0,1350,0.0,0.0,0,Lagoa,Leblon,1350.0
+Apartamento,Monte Castelo,Rua Pio Rojas,70,2,1,1.0,1350,475.0,175.0,1,Segredo,Monte Castelo,2000.0
+Apartamento,Vila Vilas Boas,Avenida Três Barras,60,2,1,1.0,1350,0.0,0.0,0,Bandeira,Vilasboas,1350.0
+Apartamento,Vila Marcos Roberto,Rua Ouro Verde,42,1,1,1.0,1350,0.0,0.0,0,Anhanduizinho,Joquey Club,1350.0
+Casa,Jardim Anache,Rua do Sobrado,126,2,1,1.0,1350,0.0,0.0,0,Segredo,Nova Lima,1350.0
+Apartamento,Jardim Leblon,Avenida Manoel Joaquim de Moraes,45,2,1,1.0,1400,0.0,0.0,0,Lagoa,Leblon,1400.0
+Casa,Centro,Rua Brasil,36,2,1,1.0,1400,0.0,0.0,0,Centro,Centro,1400.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,48,2,1,1.0,1400,0.0,0.0,0,Bandeira,Rita Vieira,1400.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,46,2,2,1.0,1400,405.0,121.0,1,Anhanduizinho,Pioneiros,1926.0
+Apartamento,Residencial Novo Seminário,Rua Ciro Macuco,64,2,1,1.0,1400,0.0,0.0,0,Segredo,Seminário,1400.0
+Casa,Jardim América,Rua Paulo Freire,50,2,1,1.0,1400,0.0,85.0,0,Anhanduizinho,América,1485.0
+Casa,Monte Castelo,Avenida Monte Castelo,60,2,1,1.0,1400,0.0,123.0,0,Segredo,Monte Castelo,1523.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,83,2,2,1.0,1400,280.0,108.0,1,Anhanduizinho,Pioneiros,1788.0
+Apartamento,Jardim Itatiaia,Rua Ayd Saravy de Souza,62,2,1,1.0,1400,0.0,73.0,0,Bandeira,Tiradentes,1473.0
+Apartamento,Parque do Lageado,Rua Evelina Figueiredo Selingardi,42,2,2,1.0,1400,0.0,0.0,0,Anhanduizinho,Lageado,1400.0
+Casa,Parque dos Novos Estados,Rua Capiatã,76,2,1,1.0,1400,0.0,0.0,0,Prosa,Novos Estados,1400.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,83,2,2,1.0,1400,280.0,108.0,1,Anhanduizinho,Pioneiros,1788.0
+Casa,Residencial Gama,Rua Jorge Budib,73,2,2,1.0,1400,0.0,0.0,0,Segredo,Mata do Segredo,1400.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,58,2,2,1.0,1450,0.0,0.0,0,Bandeira,Rita Vieira,1450.0
+Casa,Jardim Parati,Rua da Divisão,45,3,1,1.0,1450,0.0,0.0,0,Anhanduizinho,Parati,1450.0
+Apartamento,Santa Fé,Avenida Mato Grosso,38,1,1,1.0,1450,0.0,0.0,0,Prosa,Santa Fé,1450.0
+Casa,Jardim Nossa Senhora do Perpétuo Socorro,,73,2,1,3.0,1462,0.0,72.0,0,Bandeira,Rita Vieira,1534.0
+Casa,Vila Piratininga,Rua Pasteur,52,2,2,2.0,1500,0.0,0.0,0,Anhanduizinho,Piratininga,1500.0
+Casa,Jardim Bonança,Rua Jardim Silveira,95,3,3,3.0,1500,0.0,0.0,0,Lagoa,Leblon,1500.0
+Apartamento,Vila Nova Campo Grande,Rua 32,67,2,1,1.0,1500,0.0,918.0,0,Imbirussu,Nova Campo Grande,2418.0
+Apartamento,Mata do Jacinto,Rua Paulo Tognini,74,2,2,1.0,1500,438.0,162.0,1,Prosa,Mata do Jacinto,2100.0
+Apartamento,União,Rua Petrópolis,40,2,1,1.0,1500,0.0,0.0,0,Lagoa,União,1500.0
+Apartamento,Centro,Rua Marechal Rondon,155,2,1,2.0,1500,1296.0,501.0,1,Centro,Centro,3297.0
+Casa,Residencial Sírio Libanês I,Rua Fuad Geleláite,111,2,1,2.0,1500,0.0,0.0,0,Imbirussu,Santo Amaro,1500.0
+Apartamento,Parque Residencial Rita Vieira,Avenida Rita Vieira de Andrade,80,2,1,1.0,1500,470.0,130.0,1,Bandeira,Rita Vieira,2100.0
+Casa,Los Angeles,Rua Engenheiro Paulo Frontin,51,2,1,1.0,1500,0.0,0.0,0,Anhanduizinho,Los Angeles,1500.0
+Apartamento,Aero Rancho,,69,2,1,1.0,1500,0.0,0.0,0,Anhanduizinho,Aero Rancho,1500.0
+Apartamento,Monte Castelo,Rua Amazonas,37,1,1,1.0,1500,0.0,0.0,0,Segredo,Monte Castelo,1500.0
+Casa,Jardim Colibrí,Rua Mainá,55,2,1,2.0,1500,0.0,53.0,0,Anhanduizinho,Alves Pereira,1553.0
+Apartamento,Residencial Novo Seminário,Rua Ciro Macuco,50,2,1,1.0,1500,202.0,90.0,1,Segredo,Seminário,1792.0
+Casa,Parque dos Novos Estados,Rua Marquês de Leão,54,2,1,3.0,1500,0.0,0.0,0,Prosa,Novos Estados,1500.0
+Casa,Jardim Bela Vista,Rua Catumbi,112,2,1,4.0,1500,0.0,299.0,0,Centro,Bela Vista,1799.0
+Apartamento,Lar do Trabalhador,Avenida dos Crisantemos,68,3,1,1.0,1500,0.0,0.0,0,Imbirussu,Sobrinho,1500.0
+Apartamento,Jardim das Nações,Rua Luis Coutinho,40,2,1,1.0,1500,0.0,0.0,0,Anhanduizinho,Parati,1500.0
+Casa,Jardim Parati,,80,2,2,1.0,1500,175.0,74.0,1,Anhanduizinho,Parati,1749.0
+Apartamento,Amambaí,Rua Doutor Arlindo de Andrade,108,3,1,2.0,1500,0.0,0.0,0,Centro,Amambaí,1500.0
+Apartamento,Parque Residencial dos Girassóis,Rua Petrópolis,40,2,1,1.0,1500,0.0,0.0,0,Lagoa,União,1500.0
+Casa,Jardim São Conrado,Rua Coronel Athos P. da Silveira,70,2,1,1.0,1500,0.0,0.0,0,Lagoa,São Conrado,1500.0
+Apartamento,Vila Célia,Rua Goiás,80,2,1,1.0,1500,0.0,0.0,0,Centro,Cruzeiro,1500.0
+Apartamento,Jardim Leblon,Rua Guaianazes,78,3,1,1.0,1500,0.0,0.0,0,Lagoa,Leblon,1500.0
+Apartamento,Vila Glória,Rua Iria Loureiro Viana,65,1,1,1.0,1500,364.0,101.0,1,Centro,Glória,1965.0
+Apartamento,Parque Residencial Rita Vieira,Avenida Rita Vieira de Andrade,100,1,1,1.0,1518,400.0,142.0,1,Bandeira,Rita Vieira,2060.0
+Apartamento,Coopharádio,Rua Caldas Aulete,113,3,1,1.0,1550,575.0,167.0,1,Bandeira,Rita Vieira,2292.0
+Apartamento,Jardim Paradiso,Rua Ângela Abdulahad,50,2,1,1.0,1560,0.0,0.0,0,Segredo,Nasser,1560.0
+Apartamento,Residencial Novo Seminário,Rua Ciro Macuco,39,2,1,1.0,1565,350.0,90.0,1,Segredo,Seminário,2005.0
+Apartamento,Vila Ipiranga,Rua Carandá,61,2,1,1.0,1600,350.0,78.0,1,Anhanduizinho,Piratininga,2028.0
+Apartamento,Mata do Jacinto,Rua Jamil Basmage,87,3,2,1.0,1600,0.0,0.0,0,Prosa,Mata do Jacinto,1600.0
+Apartamento,Vila Cidade Morena,Rua Villas de Paloma,55,2,1,2.0,1600,170.0,119.0,1,Bandeira,Moreninha,1889.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,40,2,1,1.0,1600,0.0,0.0,0,Anhanduizinho,Pioneiros,1600.0
+Apartamento,Centro,Rua José Antônio,179,3,3,2.0,1600,1630.0,493.0,1,Centro,Centro,3723.0
+Apartamento,Monte Castelo,Rua Doutor Arthur Jorge,130,2,3,2.0,1600,1535.0,464.0,1,Segredo,Monte Castelo,3599.0
+Apartamento,Vila Nova Campo Grande,Rua 32,71,2,1,1.0,1600,0.0,953.0,0,Imbirussu,Nova Campo Grande,2553.0
+Apartamento,Vila Margarida,Rua Rio Negro,60,3,2,1.0,1600,470.0,195.0,1,Prosa,Margarida,2265.0
+Casa,Coopharádio,Rua Ortósia,99,3,2,2.0,1600,0.0,0.0,0,Bandeira,Rita Vieira,1600.0
+Apartamento,Coopharádio,Rua Caldas Aulete,113,3,1,1.0,1600,575.0,166.0,1,Bandeira,Rita Vieira,2341.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,50,2,1,1.0,1600,322.0,0.0,1,Anhanduizinho,Pioneiros,1922.0
+Apartamento,Vila Albuquerque,Rua Doutor Werneck,66,3,2,1.0,1600,600.0,218.0,1,Bandeira,Dr. Albuquerque,2418.0
+Apartamento,Vila Albuquerque,Rua Doutor Werneck,72,2,1,1.0,1600,566.0,185.0,1,Bandeira,Dr. Albuquerque,2351.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,50,2,1,1.0,1600,439.0,107.0,1,Anhanduizinho,Pioneiros,2146.0
+Apartamento,Mata do Segredo,Rua Brisas de Zaragoza,65,2,1,1.0,1600,0.0,0.0,0,Segredo,Mata do Segredo,1600.0
+Casa,Aero Rancho,Rua Carlos Drummond de Andrade,80,3,2,2.0,1650,0.0,0.0,0,Anhanduizinho,Aero Rancho,1650.0
+Casa,Vivendas do Parque,Rua Joana Oliveira Chaves,66,1,2,3.0,1650,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,1650.0
+Apartamento,Amambaí,Rua Engenheiro Roberto Mange,65,3,1,1.0,1650,0.0,190.0,0,Centro,Amambaí,1840.0
+Casa,Pioneiros,Rua Euclides Costa,142,3,3,1.0,1700,0.0,0.0,0,Anhanduizinho,Pioneiros,1700.0
+Apartamento,Vila Carlota,Rua Spipe Calarge,107,3,1,1.0,1700,412.0,0.0,1,Bandeira,Carlota,2112.0
+Casa,Parque Residencial União,Rua Modesto José dos Santos,50,2,2,2.0,1700,0.0,98.0,0,Lagoa,União,1798.0
+Casa,Los Angeles,Rua Antônio Luiz Pereira,135,2,1,1.0,1700,0.0,0.0,0,Anhanduizinho,Los Angeles,1700.0
+Apartamento,Vila Albuquerque,Rua Doutor Werneck,60,2,1,1.0,1700,500.0,185.0,1,Bandeira,Dr. Albuquerque,2385.0
+Casa,Jardim Tijuca,Rua Apiaí,68,2,1,1.0,1700,350.0,112.0,1,Lagoa,Tijuca,2162.0
+Apartamento,Bairro Seminário,Avenida Prefeito Heráclito José Diniz de Figueiredo,40,2,1,1.0,1700,0.0,0.0,0,Segredo,Seminário,1700.0
+Apartamento,Santa Fé,Avenida Mato Grosso,60,2,1,1.0,1700,0.0,0.0,0,Prosa,Santa Fé,1700.0
+Apartamento,Vila Ipiranga,Rua Francisco Alves Castelo,60,1,1,1.0,1700,260.0,65.0,1,Anhanduizinho,Piratininga,2025.0
+Apartamento,Loteamento Portobello,Rua do Latim,56,2,1,1.0,1700,280.0,126.0,1,Bandeira,Tiradentes,2106.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,50,2,1,1.0,1750,439.0,109.0,1,Anhanduizinho,Pioneiros,2298.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,40,2,1,1.0,1800,0.0,0.0,0,Anhanduizinho,Pioneiros,1800.0
+Apartamento,Vila Albuquerque,Rua Doutor Werneck,66,3,1,1.0,1800,415.0,0.0,1,Bandeira,Dr. Albuquerque,2215.0
+Casa,Vila Planalto,Rua Augusto Severo,111,4,2,2.0,1800,0.0,353.0,0,Centro,Planalto,2153.0
+Apartamento,Monte Castelo,Rua Eduardo Santos Pereira,84,3,3,1.0,1800,800.0,190.0,1,Segredo,Monte Castelo,2790.0
+Apartamento,Centro,Avenida Calógeras,80,3,1,1.0,1800,0.0,0.0,0,Centro,Centro,1800.0
+Apartamento,Centro,Rua Rui Barbosa,92,3,2,1.0,1800,716.0,253.0,1,Centro,Centro,2769.0
+Apartamento,Vila Vilas Boas,Avenida Três Barras,60,2,1,1.0,1800,150.0,0.0,1,Bandeira,Vilasboas,1950.0
+Casa,Panorama,Rua Roraima,64,2,1,1.0,1800,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,1800.0
+Apartamento,Tiradentes,Rua Silvino Dote,44,2,1,1.0,1800,0.0,0.0,0,Bandeira,Tiradentes,1800.0
+Casa,Vila Eliane,Avenida Duque de Caxias,65,2,1,2.0,1800,300.0,0.0,1,Imbirussu,Nova Campo Grande,2100.0
+Casa,Sobrinho,Rua Benjamin Constant,214,3,1,2.0,1800,0.0,0.0,0,Imbirussu,Sobrinho,1800.0
+Apartamento,Jardim Jacy,Avenida Europa,101,3,2,1.0,1800,0.0,0.0,0,Anhanduizinho,Jacy,1800.0
+Apartamento,Centro,Rua Marechal Rondon,151,4,3,1.0,1800,1498.0,431.0,1,Centro,Centro,3729.0
+Apartamento,Vila Moreninha,Rua Maracaju,80,3,3,1.0,1800,688.0,199.0,1,Bandeira,Moreninha,2687.0
+Casa,Vila Nova Campo Grande,Rua 116,74,2,1,1.0,1800,0.0,0.0,0,Imbirussu,Nova Campo Grande,1800.0
+Apartamento,Coronel Antonino,Rua São Sepé,60,2,1,1.0,1800,0.0,150.0,0,Segredo,Coronel Antonino,1950.0
+Casa,Parque do Sol,Rua Maria Del Horno Samper,100,3,2,4.0,1800,0.0,172.0,0,Anhanduizinho,Lageado,1972.0
+Casa,Vila Carlota,Rua do Franco,50,2,1,3.0,1850,0.0,103.0,0,Bandeira,Carlota,1953.0
+Apartamento,São Francisco,Rua Quatorze de Julho,52,2,1,1.0,1900,0.0,0.0,0,Centro,São Francisco,1900.0
+Casa,Monte Castelo,Rua Rio de Janeiro,67,3,1,1.0,1900,0.0,0.0,0,Segredo,Monte Castelo,1900.0
+Apartamento,Tiradentes,Avenida Marquês de Pombal,49,2,1,1.0,1900,0.0,0.0,0,Bandeira,Tiradentes,1900.0
+Apartamento,Centro,Rua Rui Barbosa,69,3,2,1.0,1900,470.0,240.0,1,Centro,Centro,2610.0
+Apartamento,Cabreúva,Rua Quatorze de Julho,60,2,1,1.0,1930,450.0,120.0,1,Centro,Cabreúva,2500.0
+Apartamento,Monte Castelo,Rua Antonina de Castro Faria,80,2,1,2.0,2000,875.0,286.0,1,Segredo,Monte Castelo,3161.0
+Casa,Universitário,Rua Elvira Matos de Oliveira,100,3,2,1.0,2000,0.0,0.0,0,Bandeira,Universitário,2000.0
+Apartamento,Centro,Avenida Afonso Pena,120,2,1,1.0,2000,488.0,19.0,1,Centro,Centro,2507.0
+Casa,Monte Carlo,Rua Val de Palmas,126,3,1,2.0,2000,0.0,0.0,0,Prosa,Autonomista,2000.0
+Apartamento,Vila Rosa Pires,Rua Uberlândia,99,3,2,1.0,2000,0.0,0.0,0,Centro,Itanhangá,2000.0
+Casa,Pioneiros,Rua Ana Luiza de Souza,150,1,1,1.0,2000,0.0,0.0,0,Anhanduizinho,Pioneiros,2000.0
+Casa,Jardim Itamaracá,Rua Joana Maria de Souza,79,2,2,2.0,2000,0.0,108.0,0,Bandeira,Rita Vieira,2108.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,53,2,1,1.0,2000,326.0,125.0,1,Bandeira,Maria Aparecida Pedrossian,2451.0
+Apartamento,Residencial Novo Seminário,Rua Ciro Macuco,46,2,2,2.0,2000,0.0,0.0,0,Segredo,Seminário,2000.0
+Apartamento,Vila Rosa Pires,Rua Uberlândia,99,3,2,1.0,2000,985.0,305.0,1,Centro,Itanhangá,3290.0
+Apartamento,Bairro Seminário,Rua Cardeal Arcoverde,50,2,1,2.0,2000,0.0,0.0,0,Segredo,Seminário,2000.0
+Casa,Jardim Colibrí,Rua João Scarano,100,3,1,2.0,2000,0.0,0.0,0,Anhanduizinho,Alves Pereira,2000.0
+Casa,Portal do Panamá,Rua Antônio Pereira Veríssimo,100,2,2,3.0,2000,0.0,0.0,0,Imbirussu,Panamá,2000.0
+Apartamento,Monte Castelo,Rua Doutor Arthur Jorge,142,3,3,1.0,2000,910.0,214.0,1,Segredo,Monte Castelo,3124.0
+Apartamento,Monte Castelo,Rua Onoria Martins Pereira,50,2,1,1.0,2000,0.0,0.0,0,Segredo,Monte Castelo,2000.0
+Apartamento,Vila Albuquerque,,65,3,2,1.0,2000,522.0,217.0,1,Bandeira,Dr. Albuquerque,2739.0
+Casa,Jardim Tijuca,Rua Culuene,160,2,1,1.0,2000,0.0,84.0,0,Lagoa,Tijuca,2084.0
+Casa,Vila Sílvia Regina,Rua Gravatá,100,3,1,2.0,2000,0.0,0.0,0,Imbirussu,Santo Antônio,2000.0
+Apartamento,Mata do Jacinto,Rua Afro Puga,54,2,1,1.0,2000,474.0,166.0,1,Prosa,Mata do Jacinto,2640.0
+Casa,Vila Carlota,Rua do Dinar,83,3,2,1.0,2000,413.0,104.0,1,Bandeira,Carlota,2517.0
+Casa,Mata do Jacinto,Rua Engenheiro Semi Ferzelli,90,4,1,1.0,2000,0.0,100.0,0,Prosa,Mata do Jacinto,2100.0
+Casa,Jardim Jacy,Rua Espanha,83,2,2,5.0,2000,0.0,0.0,0,Anhanduizinho,Jacy,2000.0
+Casa,Vila Santo Eugênio,Rua Vinte e Três de Outubro,99,3,2,3.0,2000,0.0,113.0,0,Bandeira,Universitário,2113.0
+Apartamento,Centro,Rua das Garças,55,1,1,1.0,2000,719.0,155.0,1,Centro,Centro,2874.0
+Casa,Jardim Montevidéu,Rua Itapiranga,63,3,2,1.0,2000,0.0,92.0,0,Prosa,Novos Estados,2092.0
+Casa,Monte Castelo,Rua Antonina de Castro Faria,55,2,2,1.0,2030,0.0,100.0,0,Segredo,Monte Castelo,2130.0
+Apartamento,Jardim das Nações,Rua Luis Coutinho,40,2,1,1.0,2100,0.0,0.0,0,Anhanduizinho,Parati,2100.0
+Apartamento,Tiradentes,Avenida Marquês de Pombal,50,2,1,1.0,2100,350.0,120.0,1,Bandeira,Tiradentes,2570.0
+Casa,Vila Nasser,Rua Tenente Lira,250,4,2,6.0,2100,0.0,173.0,0,Segredo,Nasser,2273.0
+Apartamento,Vila Carlota,Avenida Fábio Zahran,42,2,1,1.0,2150,400.0,0.0,1,Bandeira,Carlota,2550.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,54,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Casa,Parque Residencial Rita Vieira,Rua Maria Justina de Souza,54,1,2,2.0,2200,100.0,0.0,1,Bandeira,Rita Vieira,2300.0
+Apartamento,São Francisco,Rua Quatorze de Julho,45,2,1,1.0,2200,0.0,0.0,0,Centro,São Francisco,2200.0
+Casa,Vila Palmira,Rua Jerusalém,200,4,2,5.0,2200,0.0,0.0,0,Imbirussu,Santo Amaro,2200.0
+Apartamento,Centro,Rua Rui Barbosa,69,3,2,1.0,2200,468.0,240.0,1,Centro,Centro,2908.0
+Casa,Estrela do Sul,Rua Aladim,165,2,2,2.0,2200,0.0,0.0,0,Segredo,Coronel Antonino,2200.0
+Casa,Parque dos Novos Estados,Rua Mirangaba,150,3,1,2.0,2200,0.0,0.0,0,Prosa,Novos Estados,2200.0
+Apartamento,Vila Margarida,Rua Rio Negro,61,1,2,1.0,2200,580.0,282.0,1,Prosa,Margarida,3062.0
+Casa,Coronel Antonino,Rua Doutor Meireles,50,2,1,1.0,2200,0.0,105.0,0,Segredo,Coronel Antonino,2305.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Apartamento,Carandá Bosque,Rua Vicente Lopes Gondim,55,2,1,1.0,2200,200.0,100.0,1,Prosa,Carandá,2500.0
+Apartamento,Monte Castelo,Rua Eduardo Santos Pereira,120,2,2,1.0,2200,845.0,319.0,1,Segredo,Monte Castelo,3364.0
+Apartamento,Parque Residencial Rita Vieira,Rua Mariza Andrade Ribeiro,49,2,1,1.0,2200,0.0,0.0,0,Bandeira,Rita Vieira,2200.0
+Apartamento,Loteamento Portobello,Rua do Latim,56,2,1,1.0,2200,0.0,0.0,0,Bandeira,Tiradentes,2200.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,49,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Casa,Panorama,Rua Roraima,59,1,3,1.0,2200,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,2200.0
+Apartamento,São Francisco,Rua Sacramento,70,3,2,2.0,2200,437.0,197.0,1,Centro,São Francisco,2834.0
+Casa,Bairro Seminário,Rua Campanário,90,2,1,2.0,2200,0.0,100.0,0,Segredo,Seminário,2300.0
+Apartamento,Pioneiros,Avenida Senador Antonio Mendes Canale,45,2,1,1.0,2200,0.0,0.0,0,Anhanduizinho,Pioneiros,2200.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,89,2,1,1.0,2300,0.0,0.0,0,Bandeira,Rita Vieira,2300.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,65,2,2,1.0,2300,252.0,0.0,1,Bandeira,Maria Aparecida Pedrossian,2552.0
+Casa,Parque dos Novos Estados,Rua dos Navegantes,80,2,1,2.0,2300,0.0,0.0,0,Prosa,Novos Estados,2300.0
+Casa,São Francisco,Rua Dois de Outubro,89,3,2,2.0,2300,0.0,130.0,0,Centro,São Francisco,2430.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,53,2,2,1.0,2300,326.0,146.0,1,Bandeira,Maria Aparecida Pedrossian,2772.0
+Apartamento,Monte Castelo,Rua José Alberto Pereira,70,3,2,1.0,2300,500.0,0.0,1,Segredo,Monte Castelo,2800.0
+Casa,Loteamento Rancho Alegre II,Rua Flora do Pantanal,100,2,2,1.0,2350,0.0,8.0,0,Lagoa,Caiobá,2358.0
+Apartamento,Centro,Rua Rui Barbosa,66,3,2,1.0,2380,470.0,230.0,1,Centro,Centro,3080.0
+Apartamento,São Francisco,Rua Quatorze de Julho,70,2,2,1.0,2400,0.0,0.0,0,Centro,São Francisco,2400.0
+Casa,Vila Carlota,Rua do Dracma,110,3,2,2.0,2400,0.0,0.0,0,Bandeira,Carlota,2400.0
+Casa,Centro,Rua das Garças,100,2,1,1.0,2400,0.0,337.0,0,Centro,Centro,2737.0
+Apartamento,Centro,Rua Rui Barbosa,70,3,2,1.0,2450,468.0,222.0,1,Centro,Centro,3140.0
+Apartamento,Vivendas do Parque,,55,2,1,1.0,2475,380.0,132.0,1,Bandeira,Maria Aparecida Pedrossian,2987.0
+Apartamento,Monte Castelo,Avenida Rachid Neder,70,2,2,1.0,2500,0.0,0.0,0,Segredo,Monte Castelo,2500.0
+Casa,Monte Castelo,Rua Rio de Janeiro,120,3,3,3.0,2500,300.0,100.0,1,Segredo,Monte Castelo,2900.0
+Casa,Jardim das Nações,Rua Ary Mattoso,102,2,3,2.0,2500,0.0,105.0,0,Anhanduizinho,Parati,2605.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,53,2,1,1.0,2500,280.0,125.0,1,Bandeira,Maria Aparecida Pedrossian,2905.0
+Casa,Chácara Cachoeira,Rua Doutor Michel Scaff,112,2,2,2.0,2500,350.0,289.0,1,Prosa,Chácara Cachoeira,3139.0
+Apartamento,São Francisco,Rua Quatorze de Julho,66,3,2,1.0,2500,476.0,271.0,1,Centro,São Francisco,3247.0
+Apartamento,Bairro Seminário,Avenida Prefeito Heráclito José Diniz de Figueiredo,45,2,1,1.0,2500,250.0,100.0,1,Segredo,Seminário,2850.0
+Apartamento,Centro,Rua Quinze de Novembro,147,2,3,2.0,2500,1408.0,397.0,1,Centro,Centro,4305.0
+Casa,Parque Residencial Rita Vieira,Rua Enedina Pereira Ferreira,96,3,2,1.0,2500,0.0,95.0,0,Bandeira,Rita Vieira,2595.0
+Apartamento,Tiradentes,Rua Rogério Cavalari,45,2,1,1.0,2500,0.0,0.0,0,Bandeira,Tiradentes,2500.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,70,2,1,1.0,2500,365.0,135.0,1,Bandeira,Maria Aparecida Pedrossian,3000.0
+Casa,Vila Flório,,98,4,2,3.0,2500,0.0,175.0,0,Lagoa,Leblon,2675.0
+Casa,Jardim Jockey Club,Rua das Rosas,150,3,1,1.0,2500,0.0,130.0,0,Anhanduizinho,Joquey Club,2630.0
+Casa,Loteamento Bela Laguna,Rua Gilson Mendes Silva,99,3,2,3.0,2500,0.0,104.0,0,Lagoa,Caiobá,2604.0
+Casa,Vila Alba,Rua Berilo,213,3,1,3.0,2500,0.0,230.0,0,Imbirussu,Sobrinho,2730.0
+Apartamento,Bairro Seminário,Avenida Prefeito Heráclito José Diniz de Figueiredo,49,2,1,1.0,2500,0.0,0.0,0,Segredo,Seminário,2500.0
+Apartamento,Monte Castelo,Avenida Rachid Neder,73,2,2,1.0,2500,450.0,364.0,1,Segredo,Monte Castelo,3314.0
+Apartamento,Tiradentes,Avenida Marquês de Pombal,47,1,2,1.0,2500,0.0,0.0,0,Bandeira,Tiradentes,2500.0
+Casa,Jardim TV Morena,Travessa João Domingos,134,3,2,1.0,2500,50.0,0.0,1,Bandeira,TV Morena,2550.0
+Casa,Jardim Tijuca,Rua Nhambiquara,152,3,2,4.0,2500,0.0,157.0,0,Lagoa,Tijuca,2657.0
+Apartamento,São Francisco,Rua Quatorze de Julho,67,3,1,1.0,2550,480.0,200.0,1,Centro,São Francisco,3230.0
+Casa,Jardim Mansur,Rua Alice Barbosa Lopes,99,3,2,2.0,2600,0.0,0.0,0,Bandeira,Vilasboas,2600.0
+Apartamento,Mata do Jacinto,Rua Jamil Basmage,67,3,1,1.0,2650,330.0,89.0,1,Prosa,Mata do Jacinto,3069.0
+Casa,Vila Planalto,Rua Udinese,86,3,2,2.0,2700,350.0,135.0,1,Centro,Planalto,3185.0
+Casa,Vila Morumbi,Rua Assunção,72,3,1,2.0,2700,0.0,0.0,0,Bandeira,Rita Vieira,2700.0
+Apartamento,Jardim Veraneio,Rua Rio Doce,124,2,1,1.0,2700,0.0,0.0,0,Prosa,Veraneio,2700.0
+Casa,Coronel Antonino,Rua do Rosário,165,3,2,2.0,2700,0.0,82.0,0,Segredo,Coronel Antonino,2782.0
+Apartamento,Bairro Seminário,Avenida Padre João Falco,109,3,2,1.0,2700,616.0,255.0,1,Segredo,Seminário,3571.0
+Casa,Parque Residencial Rita Vieira,Rua Ana Basília,74,3,2,1.0,2800,0.0,110.0,0,Bandeira,Rita Vieira,2910.0
+Apartamento,São Francisco,Avenida Presidente Ernesto Geisel,70,3,2,1.0,2800,427.0,272.0,1,Centro,São Francisco,3499.0
+Casa,Coronel Antonino,Rua São Luís Gonzaga,75,3,2,1.0,2800,0.0,144.0,0,Segredo,Coronel Antonino,2944.0
+Apartamento,Itanhangá Park,Avenida Rodolfo José Pinho,83,3,2,2.0,2800,480.0,360.0,1,Centro,Itanhangá,3640.0
+Casa,Monte Castelo,Rua Jaguarão,150,3,3,5.0,2800,0.0,292.0,0,Segredo,Monte Castelo,3092.0
+Apartamento,Vila Margarida,Rua Rio Negro,77,3,2,2.0,2900,800.0,400.0,1,Prosa,Margarida,4100.0
+Apartamento,Vila Margarida,Rua Rio Negro,77,3,2,2.0,2900,800.0,400.0,1,Prosa,Margarida,4100.0
+Casa,Coopharádio,Rua Caldas Aulete,110,3,2,1.0,2900,315.0,221.0,1,Bandeira,Rita Vieira,3436.0
+Apartamento,Vila Margarida,Rua Rio Negro,136,2,5,1.0,2900,868.0,396.0,1,Prosa,Margarida,4164.0
+Apartamento,Tiradentes,Avenida Marquês de Pombal,45,2,1,1.0,2950,0.0,0.0,0,Bandeira,Tiradentes,2950.0
+Casa,São Francisco,Rua Quatorze de Julho,127,3,2,1.0,2980,840.0,245.0,1,Centro,São Francisco,4065.0
+Apartamento,Jardim dos Estados,,47,1,1,1.0,2998,600.0,328.0,1,Centro,Jardim dos Estados,3926.0
+Apartamento,Centro,Avenida Afonso Pena,372,4,6,2.0,3000,1965.0,617.0,1,Centro,Centro,5582.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,78,3,2,2.0,3000,300.0,156.0,1,Bandeira,Maria Aparecida Pedrossian,3456.0
+Casa,Vila Sargento Amaral,Rua Canela,182,2,3,3.0,3000,0.0,127.0,0,Centro,Amambaí,3127.0
+Casa,Jardim São Lourenço,Rua dos Gusmões,182,2,1,2.0,3000,0.0,0.0,0,Bandeira,São Lourenço,3000.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,87,3,1,2.0,3000,435.0,187.0,1,Bandeira,Maria Aparecida Pedrossian,3622.0
+Apartamento,Centro,Avenida Afonso Pena,372,4,6,2.0,3000,1965.0,617.0,1,Centro,Centro,5582.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,78,3,2,1.0,3000,364.0,156.0,1,Bandeira,Maria Aparecida Pedrossian,3520.0
+Casa,Jardim Colibrí,Rua João Trivellato,110,3,3,3.0,3000,0.0,0.0,0,Anhanduizinho,Alves Pereira,3000.0
+Casa,Pioneiros,Rua Ana Luiza de Souza,200,1,1,4.0,3000,0.0,0.0,0,Anhanduizinho,Pioneiros,3000.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,34,1,1,1.0,3000,750.0,150.0,1,Centro,Jardim dos Estados,3900.0
+Casa,Vila Ravenna,Rua Messina,100,2,1,3.0,3000,0.0,0.0,0,Segredo,Coronel Antonino,3000.0
+Casa,Residencial Maria Neves,Rua Glauco Assis Monteiro,127,3,4,2.0,3036,0.0,150.0,0,Segredo,Nasser,3186.0
+Apartamento,Centro,Rua Rui Barbosa,69,3,2,1.0,3100,470.0,260.0,1,Centro,Centro,3830.0
+Casa,Amambaí,Rua Saldanha Marinho,242,5,3,4.0,3100,0.0,388.0,0,Centro,Amambaí,3488.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,65,3,2,2.0,3200,320.0,156.0,1,Bandeira,Maria Aparecida Pedrossian,3676.0
+Apartamento,Sobrinho,Rua Américo Marques,91,1,1,1.0,3200,0.0,0.0,0,Imbirussu,Sobrinho,3200.0
+Apartamento,Parque Residencial Rita Vieira,Rua Cesar Ramos dos Santos,64,3,1,1.0,3200,290.0,160.0,1,Bandeira,Rita Vieira,3650.0
+Casa,Monte Castelo,Rua Antonina de Castro Faria,100,2,3,1.0,3200,0.0,0.0,0,Segredo,Monte Castelo,3200.0
+Casa,Monte Castelo,,79,3,2,1.0,3200,493.0,260.0,1,Segredo,Monte Castelo,3953.0
+Casa,Jardim Tijuca,Rua Manoel Zanin,215,4,3,3.0,3200,0.0,203.0,0,Lagoa,Tijuca,3403.0
+Apartamento,Centro,Rua Rui Barbosa,70,2,2,1.0,3200,540.0,400.0,1,Centro,Centro,4140.0
+Casa,Jardim Mansur,Rua Amélia Tognini,117,3,3,2.0,3200,0.0,0.0,0,Bandeira,Vilasboas,3200.0
+Casa,Vila Carvalho,Rua Marco Pólo,170,3,5,1.0,3300,457.0,310.0,1,Centro,Carvalho,4067.0
+Apartamento,Residencial Sóter,Rua Antônio Rahe,54,2,1,1.0,3470,0.0,0.0,0,Prosa,Mata do Jacinto,3470.0
+Casa,São Francisco,Rua Sacramento,178,3,1,2.0,3500,0.0,0.0,0,Centro,São Francisco,3500.0
+Casa,Tiradentes,Rua da Planície,220,3,3,7.0,3500,0.0,0.0,0,Bandeira,Tiradentes,3500.0
+Apartamento,Itanhangá Park,Rua Nova Era,77,2,2,1.0,3500,536.0,382.0,1,Centro,Itanhangá,4418.0
+Apartamento,Monte Castelo,Rua Júlio Dittmar,104,2,3,2.0,3500,720.0,503.0,1,Segredo,Monte Castelo,4723.0
+Apartamento,Mata do Jacinto,Rua Afro Puga,67,3,2,1.0,3500,475.0,199.0,1,Prosa,Mata do Jacinto,4174.0
+Casa,Vila Ipiranga,Rua das Guianas,148,4,3,2.0,3500,0.0,0.0,0,Anhanduizinho,Piratininga,3500.0
+Apartamento,Tiradentes,Alameda do Ipê Amarelo,79,2,1,1.0,3500,603.0,323.0,1,Bandeira,Tiradentes,4426.0
+Casa,Tiradentes,Rua do Nilo,151,4,2,4.0,3500,0.0,0.0,0,Bandeira,Tiradentes,3500.0
+Apartamento,Vila Albuquerque,Rua Doutor Werneck,77,2,2,1.0,3500,0.0,0.0,0,Bandeira,Dr. Albuquerque,3500.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,60,2,1,1.0,3500,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,3500.0
+Casa,Vila Taveirópolis,Avenida Tiradentes,133,6,3,3.0,3500,0.0,352.0,0,Lagoa,Taveirópolis,3852.0
+Casa,Chácara Cachoeira,Rua Doutor Michel Scaff,118,3,4,1.0,3500,210.0,291.0,1,Prosa,Chácara Cachoeira,4001.0
+Casa,Jardim Montevidéu,,137,2,2,2.0,3500,0.0,200.0,0,Prosa,Novos Estados,3700.0
+Apartamento,Tiradentes,Alameda do Ipê Amarelo,70,3,2,2.0,3500,607.0,359.0,1,Bandeira,Tiradentes,4466.0
+Casa,Carandá Bosque,Rua Luzia de Castro Coimbra,200,2,1,1.0,3600,0.0,350.0,0,Prosa,Carandá,3950.0
+Apartamento,São Francisco,Rua Quatorze de Julho,45,2,1,1.0,3600,0.0,0.0,0,Centro,São Francisco,3600.0
+Apartamento,Centro,Rua Rui Barbosa,65,1,1,1.0,3600,0.0,0.0,0,Centro,Centro,3600.0
+Apartamento,Monte Castelo,Rua Júlio Dittmar,167,2,3,2.0,3600,720.0,503.0,1,Segredo,Monte Castelo,4823.0
+Apartamento,Amambaí,Rua Dom Aquino,168,3,2,1.0,3600,0.0,0.0,0,Centro,Amambaí,3600.0
+Casa,Vila Nascente,Rua José Joaquim da Silva,220,3,5,2.0,3700,0.0,0.0,0,Prosa,Carandá,3700.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,49,1,1,1.0,3750,850.0,300.0,1,Centro,Jardim dos Estados,4900.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,35,1,1,1.0,3750,0.0,0.0,0,Centro,Jardim dos Estados,3750.0
+Apartamento,Parque dos Poderes,Avenida Poeta Manoel de Barros,113,2,2,2.0,3800,0.0,0.0,0,Prosa,Chácara Cachoeira,3800.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,35,1,1,1.0,3800,0.0,0.0,0,Centro,Jardim dos Estados,3800.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,35,1,1,1.0,3800,0.0,0.0,0,Centro,Jardim dos Estados,3800.0
+Apartamento,Centro,Avenida Mato Grosso,109,3,2,2.0,3800,837.0,369.0,1,Centro,Centro,5006.0
+Apartamento,Tiradentes,,87,2,2,1.0,3900,565.0,364.0,1,Bandeira,Tiradentes,4829.0
+Casa,Vila Vilas Boas,Rua Nicomedes Vieira de Rezende,164,3,2,4.0,3900,0.0,0.0,0,Bandeira,Vilasboas,3900.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,35,1,1,1.0,3900,0.0,0.0,0,Centro,Jardim dos Estados,3900.0
+Casa,Vila Taveirópolis,Rua Rodolfo Andrade Pinho,280,6,4,4.0,3900,0.0,410.0,0,Lagoa,Taveirópolis,4310.0
+Casa,Cabreúva,Rua João Azuaga,266,2,1,2.0,3900,0.0,316.0,0,Centro,Cabreúva,4216.0
+Casa,Vila do Polonês,Rua Izalda Ourique de Oliveira,112,2,3,2.0,3900,0.0,238.0,0,Prosa,Carandá,4138.0
+Casa,Vila Morumbi,Rua Assunção,84,2,2,2.0,3900,278.0,178.0,1,Bandeira,Rita Vieira,4356.0
+Apartamento,Jardim dos Estados,,47,1,1,1.0,4000,600.0,328.0,1,Centro,Jardim dos Estados,4928.0
+Casa,Monte Castelo,Rua Treze de Junho,214,3,2,1.0,4000,0.0,344.0,0,Segredo,Monte Castelo,4344.0
+Casa,Vila Carvalho,Rua Marco Pólo,170,3,5,2.0,4000,457.0,310.0,1,Centro,Carvalho,4767.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,36,1,1,1.0,4000,750.0,0.0,1,Centro,Jardim dos Estados,4750.0
+Apartamento,Jardim dos Estados,Travessa Ana Vani,60,1,1,1.0,4000,600.0,343.0,1,Centro,Jardim dos Estados,4943.0
+Casa,Centro,Rua Joaquim Murtinho,181,4,3,2.0,4000,0.0,509.0,0,Centro,Centro,4509.0
+Casa,Vila Rosa Pires,Rua Joaquim Avelino de Rezende,258,4,3,2.0,4200,0.0,550.0,0,Centro,Itanhangá,4750.0
+Apartamento,Jardim dos Estados,Travessa Ana Vani,46,1,1,1.0,4200,0.0,0.0,0,Centro,Jardim dos Estados,4200.0
+Apartamento,Centro,Avenida Afonso Pena,317,3,3,2.0,4200,1772.0,679.0,1,Centro,Centro,6651.0
+Apartamento,Jardim dos Estados,Travessa Ana Vani,46,1,1,2.0,4300,0.0,0.0,0,Centro,Jardim dos Estados,4300.0
+Apartamento,Jardim dos Estados,Travessa Ana Vani,68,1,1,1.0,4300,857.0,494.0,1,Centro,Jardim dos Estados,5651.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,49,1,1,1.0,4500,0.0,0.0,0,Centro,Jardim dos Estados,4500.0
+Apartamento,Itanhangá Park,Rua Nova Era,87,3,2,2.0,4500,742.0,0.0,1,Centro,Itanhangá,5242.0
+Apartamento,Vivendas do Parque,Avenida Doutor Paulo Adolfo Bernard,70,2,1,1.0,4500,300.0,95.0,1,Bandeira,Maria Aparecida Pedrossian,4895.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,70,2,2,2.0,4700,1000.0,400.0,1,Centro,Jardim dos Estados,6100.0
+Casa,Carandá Bosque,,300,5,4,4.0,5000,0.0,0.0,0,Prosa,Carandá,5000.0
+Casa,Centro,Rua Castro Alves,148,4,4,3.0,5000,0.0,292.0,0,Centro,Centro,5292.0
+Casa,Carandá Bosque,Rua Vitório Zeolla,200,2,2,4.0,5000,0.0,0.0,0,Prosa,Carandá,5000.0
+Apartamento,Jardim Autonomista,Rua Hermelita de Oliveira Gomes,59,1,1,1.0,5000,1175.0,447.0,1,Prosa,Autonomista,6622.0
+Apartamento,Monte Castelo,Rua Doutor Arthur Jorge,95,3,3,1.0,5100,903.0,481.0,1,Segredo,Monte Castelo,6484.0
+Casa,Vila Vilas Boas,,210,3,2,1.0,5175,650.0,269.0,1,Bandeira,Vilasboas,6094.0
+Apartamento,Monte Castelo,Rua Doutor Arthur Jorge,100,3,3,1.0,5400,959.0,499.0,1,Segredo,Monte Castelo,6858.0
+Casa,Cidade Jardim,Rua Taioba,171,3,4,2.0,5500,850.0,353.0,1,Prosa,Chácara Cachoeira,6703.0
+Apartamento,Royal Park,Rua Tabelião Murilo Rolim,117,2,4,2.0,5500,655.0,596.0,1,Prosa,Santa Fé,6751.0
+Apartamento,Vivendas do Parque,Rua Gonçalo Alves,110,2,2,2.0,5500,1146.0,620.0,1,Bandeira,Maria Aparecida Pedrossian,7266.0
+Apartamento,Monte Castelo,Rua Doutor Arthur Jorge,94,3,2,2.0,5500,893.0,333.0,1,Segredo,Monte Castelo,6726.0
+Apartamento,Royal Park,Rua Tabelião Murilo Rolim,116,3,2,2.0,5500,700.0,500.0,1,Prosa,Santa Fé,6700.0
+Apartamento,Royal Park,Rua Tabelião Murilo Rolim,142,3,3,1.0,5500,776.0,735.0,1,Prosa,Santa Fé,7011.0
+Casa,Coronel Antonino,Rua Alegrete,350,4,3,6.0,5500,0.0,0.0,0,Segredo,Coronel Antonino,5500.0
+Apartamento,Monte Castelo,Avenida Rachid Neder,146,4,5,3.0,5500,880.0,590.0,1,Segredo,Monte Castelo,6970.0
+Apartamento,Amambaí,Avenida Afonso Pena,298,5,5,2.0,5581,1965.0,615.0,1,Centro,Amambaí,8161.0
+Casa,Vila Miguel Couto,Rua Nossa Senhora das Merces,166,3,4,2.0,5600,1150.0,466.0,1,Prosa,Chácara Cachoeira,7216.0
+Apartamento,Jardim dos Estados,Avenida Afonso Pena,70,2,2,2.0,5700,0.0,0.0,0,Centro,Jardim dos Estados,5700.0
+Apartamento,Jardim dos Estados,Travessa Ana Vani,67,1,1,1.0,5800,0.0,0.0,0,Centro,Jardim dos Estados,5800.0
+Apartamento,Carandá Bosque,Rua Acalifas,166,3,5,2.0,5900,1212.0,661.0,1,Prosa,Carandá,7773.0
+Apartamento,Vivendas do Parque,Rua Tabelião Murilo Rolim,142,3,5,3.0,6000,987.0,762.0,1,Bandeira,Maria Aparecida Pedrossian,7749.0
+Casa,Vila Rosa Pires,Rua Onze de Setembro,417,4,3,5.0,6000,0.0,700.0,0,Centro,Itanhangá,6700.0
+Apartamento,Royal Park,Rua Tabelião Murilo Rolim,100,3,2,1.0,6500,0.0,0.0,0,Prosa,Santa Fé,6500.0
+Casa,Terras Alpha Campo Grande,Rua Murta,200,3,1,1.0,6500,0.0,0.0,0,Prosa,Novos Estados,6500.0
+Casa,Vila Antônio Vendas,Rua Professor Xandinho,360,6,6,2.0,6500,0.0,1056.0,0,Centro,Bela Vista,7556.0
+Casa,Jardim dos Estados,Rua Manoel Secco Tomé,176,3,3,3.0,7200,0.0,420.0,0,Centro,Jardim dos Estados,7620.0
+Casa,Centro,Rua da Paz,297,4,4,2.0,7400,0.0,0.0,0,Centro,Centro,7400.0
+Casa,Vivendas do Parque,Rua Lídice,351,3,4,3.0,7500,0.0,512.0,0,Bandeira,Maria Aparecida Pedrossian,8012.0
+Casa,Vila Planalto,Rua Doutor Sílvio de Andrade,222,3,5,4.0,7500,0.0,0.0,0,Centro,Planalto,7500.0
+Casa,Jardim dos Estados,,350,4,4,2.0,7500,0.0,500.0,0,Centro,Jardim dos Estados,8000.0
+Casa,Jardim dos Estados,Rua José de Alencar,249,3,2,1.0,7500,0.0,0.0,0,Centro,Jardim dos Estados,7500.0
+Casa,Vila Nascente,Rua Miguel Leteriello,220,3,5,2.0,7600,0.0,0.0,0,Prosa,Carandá,7600.0
+Casa,São Francisco,,450,1,5,4.0,8000,0.0,833.0,0,Centro,São Francisco,8833.0
+Apartamento,Centro,Rua Dom Aquino,151,3,5,2.0,8000,740.0,800.0,1,Centro,Centro,9540.0
+Casa,Jardim Monte Líbano,Rua Robert Spengler,498,4,3,3.0,8000,0.0,929.0,0,Centro,Monte Líbano,8929.0
+Apartamento,Itanhangá Park,Rua Nova Era,131,3,7,3.0,8000,0.0,0.0,0,Centro,Itanhangá,8000.0
+Apartamento,Jardim dos Estados,Rua Euclides da Cunha,356,5,5,4.0,9000,3693.0,1693.0,1,Centro,Jardim dos Estados,14386.0
+Apartamento,Centro,Rua Dom Aquino,151,3,5,2.0,9000,814.0,772.0,1,Centro,Centro,10586.0
+Casa,Jardim TV Morena,Rua Spipe Calarge,300,4,3,1.0,10000,0.0,0.0,0,Bandeira,TV Morena,10000.0
+Apartamento,Itanhangá Park,Rua Bahia,400,4,6,4.0,10000,3950.0,1970.0,1,Centro,Itanhangá,15920.0
+Casa,Alphaville Campo Grande,Rua Cambacica,357,4,4,1.0,12000,0.0,0.0,0,Prosa,Novos Estados,12000.0
+Apartamento,Carandá Bosque,,241,4,5,3.0,12000,1900.0,1531.0,1,Prosa,Carandá,15431.0
+Casa,Chácara Cachoeira,Avenida Ministro João Arinos,210,3,4,2.0,12000,0.0,0.0,0,Prosa,Chácara Cachoeira,12000.0
+Casa,Residencial Damha II,Rua Ararauba,236,4,4,2.0,12000,630.0,527.0,1,Bandeira,Maria Aparecida Pedrossian,13157.0
+Casa,Chácara Cachoeira,,411,4,6,4.0,12000,0.0,1226.0,0,Prosa,Chácara Cachoeira,13226.0
+Casa,Jardim Monte Líbano,Rua João Pedro de Souza,635,6,5,4.0,12500,0.0,0.0,0,Centro,Monte Líbano,12500.0
+Apartamento,Carandá Bosque,Rua Antônio Maria Coelho,248,3,5,3.0,13000,1900.0,1550.0,1,Prosa,Carandá,16450.0
+Casa,Terras Alpha Campo Grande,Rua Baliana,180,3,1,1.0,13000,0.0,600.0,0,Prosa,Novos Estados,13600.0
+Casa,Jardim dos Estados,,500,6,6,7.0,13000,0.0,1000.0,0,Centro,Jardim dos Estados,14000.0
+Casa,Alphaville Campo Grande,Rua Singonio,333,4,5,5.0,15000,0.0,0.0,0,Prosa,Novos Estados,15000.0
+Casa,Alphaville Campo Grande,Rua Cordilini,378,4,6,6.0,15000,650.0,833.0,1,Prosa,Novos Estados,16483.0
+Casa,Alphaville Campo Grande,Rua Cafezinho,289,4,5,1.0,16000,960.0,840.0,1,Prosa,Novos Estados,17800.0
+Casa,Alphaville Campo Grande,Avenida Abadia de Oliveira Lima,289,4,5,1.0,16000,960.0,840.0,1,Prosa,Novos Estados,17800.0
+Casa,Residencial Damha ,Rua Ipomeia,305,5,5,4.0,16000,905.0,927.0,1,Bandeira,Maria Aparecida Pedrossian,17832.0
+Casa,Residencial Damha ,Avenida Marquês de Pombal,85,6,7,2.0,17500,1092.0,657.0,1,Bandeira,Maria Aparecida Pedrossian,19249.0
+Casa,Centro,Rua Abrão Júlio Rahe,700,6,7,3.0,21000,0.0,1100.0,0,Centro,Centro,22100.0
+Casa,Residencial Damha ,Alameda Recanto das Araras,406,3,4,1.0,26000,0.0,0.0,0,Bandeira,Maria Aparecida Pedrossian,26000.0
+Casa,Residencial Damha ,Rua Miguel Damha,360,3,6,1.0,30000,1100.0,0.0,1,Bandeira,Maria Aparecida Pedrossian,31100.0
